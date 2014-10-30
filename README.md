@@ -1,3 +1,8 @@
+# Установка
+
+
+# Сборка кастомной версии 
+
 Установка unity policy сервера.
 1. Установить java 1.7 или выше http://www.freetechie.com/blog/installing-oracle-sun-java-jrejdk-1-7-update-7-on-opensuse-12-2-x86_64/
 2. Установить maven http://maven.apache.org/download.cgi (не ниже 2)
@@ -22,9 +27,9 @@ JAR - путь до сгенерированного в 4 пункте jar ар�
 
 скрипт скопировать в /etc/init.d/
 
-$ cd ..
+`$ cd ..
 $ sudo cp unity_policy_server /etc/init.d/unity_policy_server
 $ cd /etc/init.d
 $ sudo chown root:root unity_policy_server
 $ sudo chmod +x unity_policy_server
-$ sudo service unity_policy_server start
+$ sudo service unity_policy_server start`
