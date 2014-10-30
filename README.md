@@ -1,7 +1,7 @@
-# Установка
+## Установка
 
 
-# Сборка кастомной версии 
+## Сборка кастомной версии 
 
 Установка unity policy сервера.
 1. Установить java 1.7 или выше http://www.freetechie.com/blog/installing-oracle-sun-java-jrejdk-1-7-update-7-on-opensuse-12-2-x86_64/
