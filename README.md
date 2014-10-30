@@ -10,8 +10,8 @@
 
 Должно выдавать что-то подобное
 
-`java version "1.8.0_11"`
-`Java(TM) SE Runtime Environment (build 1.8.0_11-b12)`
+`java version "1.8.0_11"`  
+`Java(TM) SE Runtime Environment (build 1.8.0_11-b12)`  
 `Java HotSpot(TM) 64-Bit Server VM (build 25.11-b03, mixed mode)`
 
 
