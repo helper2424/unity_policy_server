@@ -1,5 +1,19 @@
 ## Установка
 
+Для работы сервера треубется версия java  1.7 или выше, если на сервере не установлена java, то необходимо установить серверный jre 1.7  или выше.
+
+#### Важно, не используйте Open JDK, используйте только Oracle sun jre
+
+Инструкция как устанавливать jre на linux http://ru.wikihow.com/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-Oracle-Java-JRE-%D0%BD%D0%B0-Ubuntu-Linux (! при установке качайте server  jre (подобная ссылка http://www.oracle.com/technetwork/java/javase/downloads/server-jre7-downloads-1931105.html ) )
+
+`java -version`
+
+Должно выдавать что-то подобное
+
+`java version "1.8.0_11"`
+`Java(TM) SE Runtime Environment (build 1.8.0_11-b12)`
+`Java HotSpot(TM) 64-Bit Server VM (build 25.11-b03, mixed mode)`
+
 
 ## Сборка кастомной версии 
 
