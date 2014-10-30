@@ -3,7 +3,6 @@
 2. Установить maven http://maven.apache.org/download.cgi (не ниже 2)
 3. Склонировать себе репозиторий:
 
-$ git clone git@dev.x01d.com:helper2424/unity_policy_server.git
 $ cd unity_policy_server
 
 4. Необходимо скомпилировать jar файл:
